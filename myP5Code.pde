@@ -11,11 +11,22 @@ void draw(){
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
-  
-
-  
-
+  //skin
+  fill (280,300,100);
+  ellipse (200,200,300,300);
+  ellipse (100,300,100,100);
+  ellipse (300, 300, 100, 100) 
+  //eyes
+  fill(0,0,0);
+  ellipse (130, 170, 100, 100)
+  ellipse (265, 170, 100, 100)
+  //sparkle
+  fill (255,255,255,255)
+    ellipse(130,170, 50, 25);
+  ellipse(130,170,25,50); 
 }
+
+
 
 //🟡Extra FUN Features Ms. Hall Added
 //Proceed with Caution (and Curiosity!)
