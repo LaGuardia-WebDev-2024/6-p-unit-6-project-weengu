@@ -13,6 +13,7 @@ void draw(){
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   //skin
   fill (280,300,100);
+  stroke (0,0,0)
   ellipse (200,200,300,300);
   ellipse (100,300,100,100);
   ellipse (300, 300, 100, 100) 
@@ -22,8 +23,16 @@ void draw(){
   ellipse (265, 170, 100, 100)
   //sparkle
   fill (255,255,255,255)
+  noStroke ()
     ellipse(130,170, 50, 25);
   ellipse(130,170,25,50); 
+      ellipse(265,170, 50, 25);
+  ellipse(265,170,25,50); 
+    ellipse(270,160, 10, 5);
+  ellipse(270,160,10,5); 
+  //mouth
+fill (0,0,0)
+ triangle ()
 }
 
 
