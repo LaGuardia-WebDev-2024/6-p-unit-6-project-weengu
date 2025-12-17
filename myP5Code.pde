@@ -31,8 +31,10 @@ void draw(){
     ellipse(270,160, 10, 5);
   ellipse(270,160,10,5); 
   //mouth
-fill (0,0,0)
- triangle ()
+fill (460,130,100,200);
+ellipse (200,260,100,70);
+ellipse (200,270,90,90);
+
 }
 
 
