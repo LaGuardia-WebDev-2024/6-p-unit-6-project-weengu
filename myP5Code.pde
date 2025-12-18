@@ -12,7 +12,7 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   //skin
-  fill (280,300,100);
+  fill (300,2200,100);
   stroke (0,0,0)
   ellipse (200,200,300,300);
   ellipse (100,300,100,100);
@@ -30,10 +30,21 @@ void draw(){
   ellipse(265,170,25,50); 
     ellipse(270,160, 10, 5);
   ellipse(270,160,10,5); 
+
+      ellipse(100,190, 20, 10);
+  ellipse(100,190,10,20); 
+      ellipse(290,190, 20, 10);
+  ellipse(290,190,10,20); 
+ 
+      ellipse(160,190, 10, 5);
+  ellipse(160,190,5,10); 
+      ellipse(240,190, 10, 5);
+  ellipse(240,190,5,10); 
+
   //mouth
 fill (460,130,100,200);
-ellipse (200,260,100,70);
-ellipse (200,270,90,90);
+ellipse (200,260,95,70);
+ellipse (200,270,93,90);
 
 }
 
